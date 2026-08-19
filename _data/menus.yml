@@ -2,6 +2,10 @@
   url: /
   external: false
 
+- title: local ascents
+  url: /local-ascents/
+  external: false
+
 - title: cheddar route of the week
   url: /cheddar-route-of-the-week/
   external: false
