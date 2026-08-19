@@ -1,0 +1,15 @@
+# List of crag keywords to match against for the latest ascents scraper.
+# The scraper will check if the UKC crag name contains any of these strings (case-insensitive).
+keywords:
+  # local choss
+  - cheddar
+  - avon # this will catch some in Scotland but idc
+  - brean
+  - frome # valley sandstone
+  - leigh # woods
+  # further afield
+  - witches
+  - sirhowy
+
+  # test one to catch loads
+  # - stanage
